@@ -1,6 +1,6 @@
-# ehq-symbols.cin: EHQ-Symbol (named Unicode symbols) and Japanese Kanas
+# ehq-symbols-jedi.cin: EHQ-Symbol (named Unicode symbols) modified, Dvorak-Hsu Edition
 #
-# This data table is combined from ehq.cin and iroha.cin
+# This data table is combined from ehq.cin, iroha.cin, and jedi.cin
 #
 # ehq.cin 2004-2008 By Weizhong Yang
 # Symbols
@@ -2262,6 +2262,7 @@ n	ㄣ
 k	ㄤ
 l	ㄥ
 l	ㄦ
+-	ㄭ
 2	ˊ
 3	ˇ
 4	ˋ
