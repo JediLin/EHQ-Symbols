@@ -12,7 +12,7 @@
 # Table data derived from japan.box, a table that existed long time ago
 # in a galaxy far far away. Table data collected in December 2004.
 #
-# jedi.cin 2008-2023 By Jedi
+# jedi.cin 2008-2024 By Jedi
 # Greeks, Hsu's BPMF, Hsu's Taiwanese Braille, Chinese Unit Symbols, Periodic Table, CC Icons, extras
 # Table data is Public Domain
 #
@@ -1760,7 +1760,7 @@ male	㊚
 +	✤
 +	✥
 cross	†
-crose	‡
+cross	‡
 cross	✙
 cross	✚
 cross	✛
@@ -1769,7 +1769,7 @@ cross	✝
 cross	✞
 cross	✟
 cross	✠
-corss	☩
+cross	☩
 cross	♱
 cross	♰
 cross	✢
